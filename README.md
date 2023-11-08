@@ -2,9 +2,8 @@
 
 <div>
   <img width="42%" src="https://github-readme-stats.vercel.app/api?username=MarcelVallim&show_icons=true&theme=radical"/>
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcelVallim&layout=compact"/>
-
-                      
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcelVallim&layout=compact&theme=dracula   "/>
+                 
 </div>
 <div> 
   <a href="mailto:marcelvallim1810@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
