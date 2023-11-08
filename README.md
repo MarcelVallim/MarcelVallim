@@ -1,5 +1,20 @@
 ### Olá, Me chamo Marcel Vallim!
 
+👋 Olá, sou Marcel Vallim
+
+🌩️ Com conhecimento em SalesCloud na nuvem, sou um entusiasta da Salesforce com experiência na construção de projetos personalizados. Utilizo as linguagens APEX e JavaScript para criar soluções sob medida que impulsionam os negócios.
+
+📈 Tenho sólido conhecimento na implementação de fórmulas personalizadas, fluxos e processos de aprovação. Adoro desenvolver automações, desde disparo de PDF até integração com API REST, proporcionando eficiência e escalabilidade.
+
+🌐 Além disso, sou apaixonado por criar soluções Web-to-Lead e configurar ChatBots diretamente na plataforma Salesforce. Minha missão é tornar as interações dos clientes mais simples e eficazes.
+
+📊 Na parte de análise, tenho experiência na criação de painéis otimizados para o faturamento de registros usando LWC (Lightning Web Components) e na construção de Dashboards com CRM Analytics.
+
+💡 Estou sempre em busca de novos desafios e oportunidades para aprimorar minhas habilidades e agregar valor às organizações.
+
+Vamos trabalhar juntos para transformar suas ideias em soluções práticas e eficazes. Entre em contato e vamos conversar!
+
+
 <div>
 <img width="47.5%" src="https://github-readme-stats.vercel.app/api?username=MarcelVallim&show_icons=true&theme=radical"/>
 <img width="42.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcelVallim&layout=compact&theme=dracula"/>
