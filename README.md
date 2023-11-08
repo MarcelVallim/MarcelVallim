@@ -1,8 +1,8 @@
 ### Olá, Me chamo Marcel Vallim!
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarcelVallim&show_icons=true&theme=radical"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcelVallim&layout=compact"/>
+  <img width="42%" src="https://github-readme-stats.vercel.app/api?username=MarcelVallim&show_icons=true&theme=radical"/>
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcelVallim&layout=compact"/>
                       
 </div>
 <div> 
