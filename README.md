@@ -1,9 +1,9 @@
 ### Olá, Me chamo Marcel Vallim!
 
 
-🚀 Sou um Desenvolvedor Júnior com experiência em Salesforce, atuando na construção de projetos personalizados na plataforma SalesCloud. Utilizo as linguagens APEX e JavaScript para desenvolver soluções personalizadas que impulsionam os negócios.
+Sou um Desenvolvedor Salesforce com experiência em Salesforce, atuando na construção de projetos personalizados na plataforma SalesCloud. Utilizo as linguagens APEX e JavaScript, Python para desenvolver soluções personalizadas que impulsionam os negócios.
 
-💻 Tenho conhecimento na implementação de fórmulas personalizadas, fluxos e processos de aprovação. Adoro desenvolver automações, desde disparo de PDF até integração com API REST, proporcionando eficiência e escalabilidade.
+Tenho conhecimento na implementação de fórmulas personalizadas, fluxos e processos de aprovação. Adoro desenvolver automações, desde disparo de PDF até integração com API REST, proporcionando eficiência e escalabilidade.
 
 Vamos trabalhar juntos para transformar suas ideias em soluções práticas e eficazes. Entre em contato e vamos conversar!
 
