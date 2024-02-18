@@ -9,8 +9,8 @@ Vamos trabalhar juntos para transformar suas ideias em soluções práticas e ef
 
 
 <div>
-<img width="47.5%" src="https://github-readme-stats.vercel.app/api?username=MarcelVallim&show_icons=true&theme=radical"/>
-<img width="42.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcelVallim&layout=compact&theme=dracula"/>
+<img width="55.5%" src="https://github-readme-stats.vercel.app/api?username=MarcelVallim&show_icons=true&theme=white"/>
+<img width="42.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcelVallim&layout=compact&theme=white"/>
 
 
 
