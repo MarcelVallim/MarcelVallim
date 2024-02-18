@@ -26,5 +26,5 @@ Vamos trabalhar juntos para transformar suas ideias em soluções práticas e ef
      <img align="center" alt="Marcel-Salesforce" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" />
     <img align="center" alt="Marcel-JS" height="25" width="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
     <img align="center" alt="Marcel-Java" height="30" width="40" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png">
-
+    <img align="center" alt="Marcel-Pyhton" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
 </div>
